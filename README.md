@@ -18,3 +18,6 @@ washington.csv
 ### Credits
 Github Documentation and Udacity 
 
+### Additional Changes
+Additional changes in documentation branch
+
